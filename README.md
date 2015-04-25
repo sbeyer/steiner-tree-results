@@ -17,7 +17,8 @@ The headers of CSV files are:
 
 This file contains results for the SteinLib instances [KMV00].
 
-The values and bounds are taken from [DIMACS,FLLLMRSS14,PUW14,PV14].
+The values and bounds are taken from
+[DIMACS,RPRUW04,FLLLMRSS14,PUW14,PV14].
 
 ## Planned
 
@@ -43,22 +44,27 @@ The files are public domain.
 Best bounds as of September 12, 2014 for SteinLib instances.
 See http://dimacs11.cs.princeton.edu/downloads.html
 
+[RPRUW04]
+Isabel Rosseti, Marcus Poggi de Aragão, Celso C. Ribeiro, Eduardo Uchoa, Renato F. Werneck:
+New Benchmark Instances for the Steiner Problem in Graphs.
+Metaheuristics: Computer Decision-Making, 601--614, 2004.
+
 [FLLLMRSS14]
 Fischetti, M., Leitner, M., Ljubic, I., Luipersbeck, M., Monaci, M., Resch, M., Salvagnin, D., Sinnl, M.:
 Thinning out Steiner trees: a node-based model for uniform edge costs.
 DIMACS 2014.
 
 [KMV00]
-Thorsten Koch and Alexander Martin and Stefan Voß:
+Thorsten Koch, Alexander Martin, Stefan Voß:
 SteinLib: An Updated Library on Steiner Tree Problems in Graphs.
 ZIB-Report 00-37, 2000. See also http://steinlib.zib.de
 
 [PUW14]
-Thomas Pajor and Eduardo Uchoa and Renato F. Werneck:
+Thomas Pajor, Eduardo Uchoa, Renato F. Werneck:
 A Robust and Scalable Algorithm for the Steiner Problem in Graphs.
 DIMACS 2014.
 
 [PV14]
-Tobias Polzin and Siavash Vahdati Daneshmand:
+Tobias Polzin, Siavash Vahdati Daneshmand:
 The Steiner Tree Challenge: An updated Study.
 DIMACS 2014.
