@@ -27,6 +27,12 @@ See http://dimacs11.cs.princeton.edu/
  * copenhagen.csv
  * vienna.csv
 
+## Improved a bound?
+
+You have improved a bound?
+Use the GitHub features (issue a bug, fork, etc.)
+or contact me via e-mail <stbeyer+steiner@uos.de>.
+
 ## License
 
 The files are public domain.
@@ -35,16 +41,7 @@ The files are public domain.
 
 [DIMACS]
 Best bounds as of September 12, 2014 for SteinLib instances.
-Contains upper bounds based on
- * [KMV00]
- * Biazzo et al. (2012)
- * Ribeiro et al. (2001)
- * Uchoa and Werneck (2012)
- * Gamrath et al.
- * [FLLLMRSS14]
- * [PUW14]
- * [PV14]
-See http://dimacs11.cs.princeton.edu/instances/bounds20140912.txt
+See http://dimacs11.cs.princeton.edu/downloads.html
 
 [FLLLMRSS14]
 Fischetti, M., Leitner, M., Ljubic, I., Luipersbeck, M., Monaci, M., Resch, M., Salvagnin, D., Sinnl, M.:
