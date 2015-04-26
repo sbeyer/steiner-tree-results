@@ -38,6 +38,8 @@ see also http://homepage.univie.ac.at/ivana.ljubic/research/STP/
 
 This file contains results for Copenhagen14 instances [DIMACS].
 
+All optimal solutions are taken from [PV14].
+
 ### pucn.csv
 
 This file contains results for PUCN instances [DIMACS].
