@@ -46,9 +46,14 @@ All optimal solutions are taken from [PV14].
 
 This file contains results for PUCN instances [DIMACS].
 
+The bounds are taken from [FLLLMRSS14].
+
 ### gaps.csv
 
 This file contains results for GAPS instances [DIMACS].
+
+The optimal values can be computed from the given parameters
+(details and references will be added later).
 
 ### efst.csv
 
