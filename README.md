@@ -34,6 +34,8 @@ The bounds are taken from
 This file contains results for Vienna instances [DIMACS],
 see also http://homepage.univie.ac.at/ivana.ljubic/research/STP/
 
+All optimal solutions are taken from [PV14].
+
 ### copenhagen14.csv
 
 This file contains results for Copenhagen14 instances [DIMACS].
