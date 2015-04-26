@@ -20,6 +20,11 @@ This file contains results for the SteinLib instances [KMV00].
 The values and bounds are taken from
 [DIMACS,RPRUW04,FLLLMRSS14,PUW14,PV14].
 
+## efst.csv
+
+This file contains results for the EFST instances [DIMACS].
+The bounds are the best known bounds as of March 24, 2015 [DIMACS].
+
 ## Planned
 
 The 11th DIMACS Challenge brought up new instances with results on them.
