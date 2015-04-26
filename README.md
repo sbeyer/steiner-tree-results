@@ -1,6 +1,7 @@
 # Steiner tree results
 
-Here we collect results on popular Steiner tree instances.
+This repository contains results on popular Steiner tree instances
+in a simple machine- and human-readable CSV format.
 
 The headers of our CSV files are:
 
@@ -9,7 +10,7 @@ The headers of our CSV files are:
  3. `n`: the number of nodes
  4. `m`: the number of edges
  5. `t`: the number of terminals
- 6. `opt`: the optimum solution value
+ 6. `opt`: the optimum solution value or -1 if unknown
  7. `lower`: the best known lower bound for the optimum solution value
  8. `upper`: the best known upper bound for the optimum solution value
 
@@ -19,8 +20,8 @@ Below you can find more information on the instance sets and
 where the bounds come from.
 
 If no information on bounds is given, we default to a lower bound
-of 0 and an upper bound obtained by a run of the 2-approximation
-by Takahashi and Matsuyama.
+of 0 and an upper bound obtained by a run of a 2-approximation
+algorithm [TM80].
 
 ### steinlib.csv
 
@@ -65,7 +66,7 @@ The bounds are the best known bounds as of March 24, 2015 [DIMACS].
 
 You have improved a bound?
 Use the GitHub features (issue a bug, fork, etc.)
-or contact me via e-mail <stbeyer+steiner@uos.de>.
+or contact me via e-mail: stbeyer+steiner@uos.de
 
 ## License
 
@@ -78,12 +79,14 @@ Best bounds as of September 12, 2014 for SteinLib instances.
 See http://dimacs11.cs.princeton.edu/downloads.html
 
 [RPRUW04]
-Isabel Rosseti, Marcus Poggi de Aragão, Celso C. Ribeiro, Eduardo Uchoa, Renato F. Werneck:
+Isabel Rosseti, Marcus Poggi de Aragão, Celso C. Ribeiro,
+Eduardo Uchoa, Renato F. Werneck:
 New Benchmark Instances for the Steiner Problem in Graphs.
-Metaheuristics: Computer Decision-Making, 601--614, 2004.
+Metaheuristics: Computer Decision-Making, 601–614, 2004.
 
 [FLLLMRSS14]
-Fischetti, M., Leitner, M., Ljubic, I., Luipersbeck, M., Monaci, M., Resch, M., Salvagnin, D., Sinnl, M.:
+Matteo Fischetti, Markus Leitner, Ivana Ljubić, Martin Luipersbeck,
+Michele Monaci, Max Resch, Domenico Salvagnin, Markus Sinnl:
 Thinning out Steiner trees: a node-based model for uniform edge costs.
 DIMACS 2014.
 
@@ -101,3 +104,8 @@ DIMACS 2014.
 Tobias Polzin, Siavash Vahdati Daneshmand:
 The Steiner Tree Challenge: An updated Study.
 DIMACS 2014.
+
+[TM80]
+Hiromitsu Takahashi, Akira Matsuyama:
+An approximate solution for the Steiner problem in graphs.
+Math. Japonica 24(6), 573–577, 1980.
