@@ -28,7 +28,7 @@ algorithm [TM80].
 This file contains results for SteinLib instances [KMV00].
 
 The bounds are taken from
-[DIMACS,RPRUW04,FLLLMRSS14,PUW14,PV14].
+[DIMACS,RPRUW04,FLLLMRSS14,PUW14,PV14,GKMRS14].
 
 ### vienna.csv
 
@@ -88,6 +88,11 @@ Metaheuristics: Computer Decision-Making, 601–614, 2004.
 Matteo Fischetti, Markus Leitner, Ivana Ljubić, Martin Luipersbeck,
 Michele Monaci, Max Resch, Domenico Salvagnin, Markus Sinnl:
 Thinning out Steiner trees: a node-based model for uniform edge costs.
+DIMACS 2014.
+
+[GKMRS14]
+Gerald Gamrath, Thorsten Koch, Stephen J. Maher, Daniel Rehfeldt, Yuji Shinano:
+SCIP-Jack – A solver for STP and variants with parallelization extensions.
 DIMACS 2014.
 
 [KMV00]
