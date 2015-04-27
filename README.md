@@ -53,8 +53,11 @@ The bounds are taken from [FLLLMRSS14].
 
 This file contains results for GAPS instances [DIMACS].
 
-The optimal values can be computed from the given parameters
-(details and references will be added later).
+The optimal values can be computed from the given parameters.
+"Goemans" instances G[k1,k2] have optimal solution
+k2 + (k1 + 1)(k1 + 2) + 2 [PV09].
+"Skutella" instances S[k] have optimal solution
+(3 * 7^k - 1)/2 [BGRS13].
 
 ### efst.csv
 
@@ -74,15 +77,14 @@ The files are public domain.
 
 ## References
 
+[BGRS13]
+Jarosław Byrka, Fabrizio Grandoni, Thomas Rothvoß, Laura Sanità:
+Steiner Tree Approximation via Iterative Randomized Rounding.
+Journal of the ACM 60(1), art. 6, 2013.
+
 [DIMACS]
 Best bounds as of September 12, 2014 for SteinLib instances.
 See http://dimacs11.cs.princeton.edu/downloads.html
-
-[RPRUW04]
-Isabel Rosseti, Marcus Poggi de Aragão, Celso C. Ribeiro,
-Eduardo Uchoa, Renato F. Werneck:
-New Benchmark Instances for the Steiner Problem in Graphs.
-Metaheuristics: Computer Decision-Making, 601–614, 2004.
 
 [FLLLMRSS14]
 Matteo Fischetti, Markus Leitner, Ivana Ljubić, Martin Luipersbeck,
@@ -105,10 +107,21 @@ Thomas Pajor, Eduardo Uchoa, Renato F. Werneck:
 A Robust and Scalable Algorithm for the Steiner Problem in Graphs.
 DIMACS 2014.
 
+[PV09]
+Tobias Polzin, Siavash Vahdati Daneshmand:
+Approaches to the Steiner Problem in Networks.
+Algorithmics of Large and Complex Networks 2009: 81–103, 2009.
+
 [PV14]
 Tobias Polzin, Siavash Vahdati Daneshmand:
 The Steiner Tree Challenge: An updated Study.
 DIMACS 2014.
+
+[RPRUW04]
+Isabel Rosseti, Marcus Poggi de Aragão, Celso C. Ribeiro,
+Eduardo Uchoa, Renato F. Werneck:
+New Benchmark Instances for the Steiner Problem in Graphs.
+Metaheuristics: Computer Decision-Making, 601–614, 2004.
 
 [TM80]
 Hiromitsu Takahashi, Akira Matsuyama:
