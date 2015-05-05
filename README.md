@@ -27,6 +27,8 @@ algorithm [TM80].
 
 This file contains results for SteinLib instances [KMV00].
 
+The instances are available at http://steinlib.zib.de/download.php
+
 The bounds are taken from
 [DIMACS,RPRUW04,FLLLMRSS14,PUW14,PV14,GKMRS14].
 
@@ -35,11 +37,15 @@ The bounds are taken from
 This file contains results for Vienna instances [DIMACS],
 see also http://homepage.univie.ac.at/ivana.ljubic/research/STP/
 
+The instances are available at http://dimacs11.cs.princeton.edu/downloads.html#stpg
+
 All optimal solutions are taken from [PV14].
 
 ### copenhagen14.csv
 
 This file contains results for Copenhagen14 instances [DIMACS].
+
+The instances are available at http://dimacs11.cs.princeton.edu/downloads.html#stpg
 
 All optimal solutions are taken from [PV14].
 
@@ -47,11 +53,15 @@ All optimal solutions are taken from [PV14].
 
 This file contains results for PUCN instances [DIMACS].
 
+The instances are available at http://dimacs11.cs.princeton.edu/downloads.html#stpg
+
 The bounds are taken from [FLLLMRSS14].
 
 ### gaps.csv
 
 This file contains results for GAPS instances [DIMACS].
+
+The instances are available at http://dimacs11.cs.princeton.edu/downloads.html#stpg
 
 The optimal values can be computed from the given parameters.
 "Goemans" instances G[k1,k2] have optimal solution
@@ -62,6 +72,8 @@ k2 + (k1 + 1)(k1 + 2) + 2 [PV09].
 ### efst.csv
 
 This file contains results for EFST instances [DIMACS].
+
+The instances are available at http://dimacs11.cs.princeton.edu/downloads.html#stpg
 
 The bounds are the best known bounds as of March 24, 2015 [DIMACS].
 
