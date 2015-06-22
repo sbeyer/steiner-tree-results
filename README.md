@@ -77,6 +77,13 @@ The instances are available at http://dimacs11.cs.princeton.edu/downloads.html#s
 
 The bounds are the best known bounds as of March 24, 2015 [DIMACS].
 
+### efstint.csv
+
+This file contains results for EFSTINT instances [DIMACS]
+(instances as of 2015-05-10).
+
+The instances are available at http://dimacs11.cs.princeton.edu/downloads.html#stpg
+
 ## Improved a bound?
 
 You have improved a bound?
