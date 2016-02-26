@@ -84,6 +84,14 @@ This file contains results for EFSTINT instances [DIMACS]
 
 The instances are available at http://dimacs11.cs.princeton.edu/downloads.html#stpg
 
+### oliveira.csv
+
+This file contains result for the instances used in [OS14,OS15].
+
+The instances are available at https://sites.google.com/site/reiracofage/research
+
+The results are computed using a standard ILP approach.
+
 ## Improved a bound?
 
 You have improved a bound?
@@ -120,6 +128,17 @@ DIMACS 2014.
 Thorsten Koch, Alexander Martin, Stefan Voß:
 SteinLib: An Updated Library on Steiner Tree Problems in Graphs.
 ZIB-Report 00-37, 2000. See also http://steinlib.zib.de
+
+[OS14]
+Ricardo Tavares de Oliveira, Fabiano Silva:
+SAT and MaxSAT Encodings for Trees Applied to the Steiner Tree Problem.
+Brazilian Conference on Intelligent Systems (BRACIS 2014): 192–197, 2014.
+
+[OS15]
+Ricardo Tavares de Oliveira, Fabiano Silva:
+On a Relative MaxSAT Encoding for the Steiner Tree Problem in Graphs.
+Mexican International Conference on Artificial Intelligence (MICAI 2015):
+422–434, 2015.
 
 [PUW14]
 Thomas Pajor, Eduardo Uchoa, Renato F. Werneck:
