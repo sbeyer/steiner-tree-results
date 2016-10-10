@@ -30,7 +30,7 @@ This file contains results for SteinLib instances [KMV00].
 The instances are available at http://steinlib.zib.de/download.php
 
 The bounds are taken from
-[DIMACS,RPRUW04,FLLLMRSS14,PUW14,PV14,GKMRS14].
+[DIMACS,RPRUW04,FLLLMRSS14,PUW14,PV14,GKMRS16].
 
 ### vienna.csv
 
@@ -119,10 +119,10 @@ Michele Monaci, Max Resch, Domenico Salvagnin, Markus Sinnl:
 Thinning out Steiner trees: a node-based model for uniform edge costs.
 DIMACS 2014.
 
-[GKMRS14]
+[GKMRS16]
 Gerald Gamrath, Thorsten Koch, Stephen J. Maher, Daniel Rehfeldt, Yuji Shinano:
 SCIP-Jack – A solver for STP and variants with parallelization extensions.
-DIMACS 2014.
+ZIB-Report 16-41, 2016. See also http://nbn-resolving.de/urn:nbn:de:0297-zib-60170
 
 [KMV00]
 Thorsten Koch, Alexander Martin, Stefan Voß:
