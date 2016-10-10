@@ -30,7 +30,7 @@ This file contains results for SteinLib instances [KMV00].
 The instances are available at http://steinlib.zib.de/download.php
 
 The bounds are taken from
-[DIMACS,RPRUW04,FLLLMRSS14,PUW14,PV14,GKMRS16].
+[DIMACS,RPRUW04,FLLLMRSS14,PUW14,PV14,GKMRS16,R15].
 
 ### vienna.csv
 
@@ -154,6 +154,11 @@ Algorithmics of Large and Complex Networks 2009: 81–103, 2009.
 Tobias Polzin, Siavash Vahdati Daneshmand:
 The Steiner Tree Challenge: An updated Study.
 DIMACS 2014.
+
+[R15]
+Daniel Rehfeldt:
+A Generic Approach to Solving the Steiner Tree Problem and Variants.
+Master Thesis, TU Berlin, 2015.
 
 [RPRUW04]
 Isabel Rosseti, Marcus Poggi de Aragão, Celso C. Ribeiro,
