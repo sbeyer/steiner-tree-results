@@ -20,8 +20,8 @@ Below you can find more information on the instance sets and
 where the bounds come from.
 
 If no information on bounds is given, we default to a lower bound
-of 0 and an upper bound obtained by a run of a 2-approximation
-algorithm [TM80].
+of 0 and an upper bound obtained by a run of a 2- and/or 11/6-approximation
+algorithm [TM80,Z93].
 
 ### steinlib.csv
 
@@ -177,3 +177,8 @@ Metaheuristics: Computer Decision-Making, 601–614, 2004.
 Hiromitsu Takahashi, Akira Matsuyama:
 An approximate solution for the Steiner problem in graphs.
 Math. Japonica 24(6), 573–577, 1980.
+
+[Z93]
+Alexander Zelikovsky:
+A faster approximation algorithm for the steiner tree problem in graphs.
+Information Processing Letters 46(2), 79–83, 1993.
