@@ -19,9 +19,11 @@ The headers of our CSV files are:
 Below you can find more information on the instance sets and
 where the bounds come from.
 
-If no information on bounds is given, we default to a lower bound
-of 0 and an upper bound obtained by a run of a 2- and/or 11/6-approximation
-algorithm [TM80,Z93].
+If no information on bounds is given, we default to self-computed values,
+usually a lower bound of 0 and an upper bound obtained by a run of a 2-
+and/or 11/6-approximation algorithm [TM80,Z93]. If the optimum solution
+is given, it is either computed using a standard ILP approach or by
+even simpler means (e.g., solved by preprocessing).
 
 ### steinlib.csv
 
@@ -89,8 +91,6 @@ The instances are available at http://dimacs11.cs.princeton.edu/downloads.html#s
 This file contains results for the instances used in [OS14,OS15].
 
 The instances are available at https://sites.google.com/site/reiracofage/research
-
-The results are computed using a standard ILP approach.
 
 ### pace2018.csv
 
