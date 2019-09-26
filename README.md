@@ -32,7 +32,7 @@ This file contains results for SteinLib instances [KMV00].
 The instances are available at http://steinlib.zib.de/download.php
 
 The bounds are taken from
-[DIMACS,RPRUW04,FLLLMRSS14,PUW14,PV14,GKMRS16,R15].
+[DIMACS,RPRUW04,FLLLMRSS14,PUW14,PV14,R15,GKMRS16,SRK19].
 
 ### vienna.csv
 
