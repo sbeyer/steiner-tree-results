@@ -39,7 +39,7 @@ The bounds are taken from
 This file contains results for Vienna instances [DIMACS],
 see also http://homepage.univie.ac.at/ivana.ljubic/research/STP/
 
-The instances are available at http://dimacs11.cs.princeton.edu/downloads.html#stpg
+The instances are available at https://dimacs11.zib.de/downloads.html#stpg
 
 All optimal solutions are taken from [PV14].
 
@@ -47,7 +47,7 @@ All optimal solutions are taken from [PV14].
 
 This file contains results for Copenhagen14 instances [DIMACS].
 
-The instances are available at http://dimacs11.cs.princeton.edu/downloads.html#stpg
+The instances are available at https://dimacs11.zib.de/downloads.html#stpg
 
 All optimal solutions are taken from [PV14].
 
@@ -55,7 +55,7 @@ All optimal solutions are taken from [PV14].
 
 This file contains results for PUCN instances [DIMACS].
 
-The instances are available at http://dimacs11.cs.princeton.edu/downloads.html#stpg
+The instances are available at https://dimacs11.zib.de/downloads.html#stpg
 
 The bounds are taken from [FLLLMRSS14].
 
@@ -63,7 +63,7 @@ The bounds are taken from [FLLLMRSS14].
 
 This file contains results for GAPS instances [DIMACS].
 
-The instances are available at http://dimacs11.cs.princeton.edu/downloads.html#stpg
+The instances are available at https://dimacs11.zib.de/downloads.html#stpg
 
 The optimal values can be computed from the given parameters.
 "Goemans" instances G[k1,k2] have optimal solution
@@ -75,7 +75,7 @@ k2 + (k1 + 1)(k1 + 2) + 2 [PV09].
 
 This file contains results for EFST instances [DIMACS].
 
-The instances are available at http://dimacs11.cs.princeton.edu/downloads.html#stpg
+The instances are available at https://dimacs11.zib.de/downloads.html#stpg
 
 The bounds are the best known bounds as of March 24, 2015 [DIMACS].
 
@@ -84,7 +84,7 @@ The bounds are the best known bounds as of March 24, 2015 [DIMACS].
 This file contains results for EFSTINT instances [DIMACS]
 (instances as of 2015-05-10).
 
-The instances are available at http://dimacs11.cs.princeton.edu/downloads.html#stpg
+The instances are available at https://dimacs11.zib.de/downloads.html#stpg
 
 ### oliveira.csv
 
@@ -118,7 +118,7 @@ Journal of the ACM 60(1), art. 6, 2013.
 
 [DIMACS]
 Best bounds as of September 12, 2014 for SteinLib instances.
-See http://dimacs11.cs.princeton.edu/downloads.html
+See https://dimacs11.zib.de/downloads.html
 
 [FLLLMRSS14]
 Matteo Fischetti, Markus Leitner, Ivana Ljubić, Martin Luipersbeck,
