@@ -111,69 +111,70 @@ The files are public domain.
 
 ## References
 
-[BGRS13]
+[[BGRS13](https://doi.org/10.1145/2432622.2432628)]
 Jarosław Byrka, Fabrizio Grandoni, Thomas Rothvoß, Laura Sanità:
 Steiner Tree Approximation via Iterative Randomized Rounding.
 Journal of the ACM 60(1), art. 6, 2013.
 
-[DIMACS]
+[[DIMACS](https://dimacs11.zib.de/downloads.html)]
 Best bounds as of September 12, 2014 for SteinLib instances.
-See https://dimacs11.zib.de/downloads.html
+DIMACS 2014.
 
-[FLLLMRSS14]
+[[FLLLMRSS14](https://doi.org/10.1007/s12532-016-0111-0)]
 Matteo Fischetti, Markus Leitner, Ivana Ljubić, Martin Luipersbeck,
 Michele Monaci, Max Resch, Domenico Salvagnin, Markus Sinnl:
 Thinning out Steiner trees: a node-based model for uniform edge costs.
 DIMACS 2014.
 
-[GKMRS16]
+[[GKMRS16](https://doi.org/10.1007/s12532-016-0114-x)]
 Gerald Gamrath, Thorsten Koch, Stephen J. Maher, Daniel Rehfeldt, Yuji Shinano:
 SCIP-Jack – A solver for STP and variants with parallelization extensions.
-ZIB-Report 16-41, 2016. See also http://nbn-resolving.de/urn:nbn:de:0297-zib-60170
+ZIB-Report 16-41, 2016.
 
-[KMV00]
+[[KMV00](https://doi.org/10.1007/978-1-4613-0255-1_9)]
 Thorsten Koch, Alexander Martin, Stefan Voß:
 SteinLib: An Updated Library on Steiner Tree Problems in Graphs.
-ZIB-Report 00-37, 2000. See also http://steinlib.zib.de
+ZIB-Report 00-37, 2000.
+See also http://steinlib.zib.de
 
-[OS14]
+[[OS14](https://doi.org/10.1109/BRACIS.2014.43)]
 Ricardo Tavares de Oliveira, Fabiano Silva:
 SAT and MaxSAT Encodings for Trees Applied to the Steiner Tree Problem.
 Brazilian Conference on Intelligent Systems (BRACIS 2014): 192–197, 2014.
 
-[OS15]
+[[OS15](https://doi.org/10.1007/978-3-319-27101-9_32)]
 Ricardo Tavares de Oliveira, Fabiano Silva:
 On a Relative MaxSAT Encoding for the Steiner Tree Problem in Graphs.
 Mexican International Conference on Artificial Intelligence (MICAI 2015):
 422–434, 2015.
 
-[PUW14]
+[[PUW14](https://doi.org/10.1007/s12532-017-0123-4)]
 Thomas Pajor, Eduardo Uchoa, Renato F. Werneck:
 A Robust and Scalable Algorithm for the Steiner Problem in Graphs.
 DIMACS 2014.
 
-[PV09]
+[[PV09](https://doi.org/10.1007/978-3-642-02094-0_5)]
 Tobias Polzin, Siavash Vahdati Daneshmand:
 Approaches to the Steiner Problem in Networks.
 Algorithmics of Large and Complex Networks 2009: 81–103, 2009.
 
-[PV14]
+[[PV14](http://dimacs11.zib.de/downloads.html)]
 Tobias Polzin, Siavash Vahdati Daneshmand:
 The Steiner Tree Challenge: An updated Study.
 DIMACS 2014.
 
-[R15]
+[[R15](https://nbn-resolving.de/urn:nbn:de:0297-zib-57817)]
 Daniel Rehfeldt:
 A Generic Approach to Solving the Steiner Tree Problem and Variants.
 Master Thesis, TU Berlin, 2015.
 
-[RPRUW04]
+[[RPRUW04](https://doi.org/10.1007/978-1-4757-4137-7_28)]
 Isabel Rosseti, Marcus Poggi de Aragão, Celso C. Ribeiro,
 Eduardo Uchoa, Renato F. Werneck:
 New Benchmark Instances for the Steiner Problem in Graphs.
 Metaheuristics: Computer Decision-Making, 601–614, 2004.
 
-[SRK19]
+[[SRK19](http://dx.doi.org/10.1007/978-3-030-19212-9_35)]
 Yuji Shinano, Daniel Rehfeldt, Thorsten Koch:
 Building Optimal Steiner Trees on Supercomputers by Using up to 43,000 Cores.
 Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR 2019):
@@ -184,7 +185,7 @@ Hiromitsu Takahashi, Akira Matsuyama:
 An approximate solution for the Steiner problem in graphs.
 Math. Japonica 24(6), 573–577, 1980.
 
-[Z93]
+[[Z93](https://doi.org/10.1016/0020-0190(93)90201-J)]
 Alexander Zelikovsky:
 A faster approximation algorithm for the steiner tree problem in graphs.
 Information Processing Letters 46(2), 79–83, 1993.
