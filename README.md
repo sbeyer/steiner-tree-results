@@ -118,13 +118,13 @@ Journal of the ACM 60(1), art. 6, 2013.
 
 [[DIMACS](https://dimacs11.zib.de/downloads.html)]
 Best bounds as of September 12, 2014 for SteinLib instances.
-DIMACS 2014.
+DIMACS, 2014.
 
 [[FLLLMRSS14](https://doi.org/10.1007/s12532-016-0111-0)]
 Matteo Fischetti, Markus Leitner, Ivana Ljubić, Martin Luipersbeck,
 Michele Monaci, Max Resch, Domenico Salvagnin, Markus Sinnl:
 Thinning out Steiner trees: a node-based model for uniform edge costs.
-DIMACS 2014.
+DIMACS, 2014.
 
 [[GKMRS16](https://doi.org/10.1007/s12532-016-0114-x)]
 Gerald Gamrath, Thorsten Koch, Stephen J. Maher, Daniel Rehfeldt, Yuji Shinano:
@@ -151,7 +151,7 @@ Mexican International Conference on Artificial Intelligence (MICAI 2015):
 [[PUW14](https://doi.org/10.1007/s12532-017-0123-4)]
 Thomas Pajor, Eduardo Uchoa, Renato F. Werneck:
 A Robust and Scalable Algorithm for the Steiner Problem in Graphs.
-DIMACS 2014.
+DIMACS, 2014.
 
 [[PV09](https://doi.org/10.1007/978-3-642-02094-0_5)]
 Tobias Polzin, Siavash Vahdati Daneshmand:
@@ -161,7 +161,7 @@ Algorithmics of Large and Complex Networks 2009: 81–103, 2009.
 [[PV14](http://dimacs11.zib.de/downloads.html)]
 Tobias Polzin, Siavash Vahdati Daneshmand:
 The Steiner Tree Challenge: An updated Study.
-DIMACS 2014.
+DIMACS, 2014.
 
 [[R15](https://nbn-resolving.de/urn:nbn:de:0297-zib-57817)]
 Daniel Rehfeldt:
