@@ -32,7 +32,7 @@ This file contains results for SteinLib instances [KMV00].
 The instances are available at http://steinlib.zib.de/download.php
 
 The bounds are taken from
-[DIMACS,RPRUW04,FLLLMRSS14,PUW14,PV14,GKMRS16,R15].
+[DIMACS,RPRUW04,FLLLMRSS14,PV14,R15,GKMRS16,PUW18].
 
 ### vienna.csv
 
@@ -148,10 +148,10 @@ On a Relative MaxSAT Encoding for the Steiner Tree Problem in Graphs.
 Mexican International Conference on Artificial Intelligence (MICAI 2015):
 422–434, 2015.
 
-[[PUW14](https://doi.org/10.1007/s12532-017-0123-4)]
+[[PUW18](https://doi.org/10.1007/s12532-017-0123-4)]
 Thomas Pajor, Eduardo Uchoa, Renato F. Werneck:
 A Robust and Scalable Algorithm for the Steiner Problem in Graphs.
-DIMACS, 2014.
+Math. Program. Comput. 10(1): 69–118, 2018.
 
 [[PV09](https://doi.org/10.1007/978-3-642-02094-0_5)]
 Tobias Polzin, Siavash Vahdati Daneshmand:
