@@ -173,6 +173,12 @@ Eduardo Uchoa, Renato F. Werneck:
 New Benchmark Instances for the Steiner Problem in Graphs.
 Metaheuristics: Computer Decision-Making, 601–614, 2004.
 
+[SRK19]
+Yuji Shinano, Daniel Rehfeldt, Thorsten Koch:
+Building Optimal Steiner Trees on Supercomputers by Using up to 43,000 Cores.
+Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR 2019):
+529–539, 2019.
+
 [TM80]
 Hiromitsu Takahashi, Akira Matsuyama:
 An approximate solution for the Steiner problem in graphs.
