@@ -10,7 +10,7 @@ The headers of our CSV files are:
  3. `n`: the number of nodes
  4. `m`: the number of edges
  5. `t`: the number of terminals
- 6. `opt`: the optimum solution value or -1 if unknown
+ 6. `opt`: the optimum solution value if known
  7. `lower`: the best known lower bound for the optimum solution value
  8. `upper`: the best known upper bound for the optimum solution value
 
