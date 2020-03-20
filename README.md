@@ -92,13 +92,6 @@ This file contains results for the instances used in [OS14,OS15].
 
 The instances are available at https://sites.google.com/site/reiracofage/research
 
-### pace2018.csv
-
-This file contains results for the public instances for
-The Parameterized Algorithms and Computational Experiments Challenge (PACE) 2018.
-
-The instances are available at https://pacechallenge.wordpress.com/pace-2018/
-
 ## Improved a bound?
 
 You have improved a bound?
