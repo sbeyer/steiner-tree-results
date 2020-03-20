@@ -32,7 +32,7 @@ This file contains results for SteinLib instances [KMV00].
 The instances are available at http://steinlib.zib.de/download.php
 
 The bounds are taken from
-[DIMACS,RPRUW04,FLLLMRSS14,PV14,R15,GKMRS16,PUW18,SRK19].
+[DIMACS,RPRUW04,FLLLMRSS14,PV14,R15,GKMRS16,PUW18,SRK19,RSK19].
 
 ### vienna.csv
 
@@ -173,6 +173,12 @@ Isabel Rosseti, Marcus Poggi de Aragão, Celso C. Ribeiro,
 Eduardo Uchoa, Renato F. Werneck:
 New Benchmark Instances for the Steiner Problem in Graphs.
 Metaheuristics: Computer Decision-Making, 601–614, 2004.
+
+[[RSK19](https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/7360)]
+Daniel Rehfeldt, Yuji Shinano, Thorsten Koch:
+SCIP-Jack: An exact high performance solver for Steiner tree problems in graphs and related problems.
+Proceedings of the 7th International Conference on High Performance Scientific Computing (HPSC 2018);
+Modeling, Simulation and Optimization of Complex Processes.
 
 [[SRK19](http://dx.doi.org/10.1007/978-3-030-19212-9_35)]
 Yuji Shinano, Daniel Rehfeldt, Thorsten Koch:
